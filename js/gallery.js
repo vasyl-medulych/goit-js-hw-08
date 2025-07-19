@@ -101,5 +101,4 @@ function handleImgClick(e) {
 `);
 
   instance.show();
-  // console.log(e.target.dataset.source);
 }
